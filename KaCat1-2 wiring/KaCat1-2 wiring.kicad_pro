@@ -456,7 +456,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
+    "net_format_name": "KiCad",
     "ngspice": {
       "fix_include_paths": true,
       "meta": {
@@ -491,10 +491,6 @@
     [
       "f3d32866-d698-4ead-ab24-baf1d12658a7",
       "Ground Unit Module"
-    ],
-    [
-      "54f7c288-7e22-4988-87a3-a3a44338e87e",
-      "Radio Unit"
     ]
   ],
   "text_variables": {}
